@@ -36,7 +36,7 @@ chmod +x run_main.sh
 ```
 
 ## Results from run_main.sh
-![image](https://github.com/sindhura97/STraTS/assets/42525474/0c90b4db-0981-42e1-8968-563c72c50e1a)
+![image](https://github.com/sindhura97/STraTS/assets/42525474/25514af6-47a3-4a0b-8861-235217181abd|width=100)
 
 ## Citation
 If you found this work useful, please cite our paper:
